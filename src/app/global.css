@@ -1,0 +1,15 @@
+main {
+  max-width: 400px;
+  margin: auto;
+  text-align: center;
+  color: white;
+}
+.good {
+  background-color: blue;
+  padding: 1em;
+}
+
+.bad {
+  background-color: maroon;
+  padding: 1em;
+}
